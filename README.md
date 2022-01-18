@@ -8,8 +8,8 @@ Results
 Link to the webpage can be found at https://github.com/DRJhome/UFOs.git 
 
 This is the initial page
+ ![image](https://user-images.githubusercontent.com/91449005/149856011-1f9b02ff-7dee-457f-8f20-ae6c94b05f9e.png)
  
-
 How the filters look
  
 
